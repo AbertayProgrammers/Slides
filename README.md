@@ -1,2 +1,2 @@
 # Slides
-Slides from weekly meetings
+Slides from weekly meetings, where possible.
